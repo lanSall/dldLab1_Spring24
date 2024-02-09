@@ -1,0 +1,113 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/lance/OneDrive/VScode/SV/lab1/dldLab1_Spring24/Lab1/SV
+T_opt
+!s110 1707160573
+V;;T8zSn`kilh]kFgNU=KT1
+Z1 04 2 4 work tb fast 0
+=1-f0d415fc1697-65c133fd-27a-4db8
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;10.7f;67
+R0
+T_opt1
+!s110 1707160897
+VJ:BfOM`Ck01dn:6olK;UA3
+R1
+=1-f0d415fc1697-65c13541-184-76f8
+R2
+R3
+n@_opt1
+R4
+R0
+T_opt2
+Z5 !s110 1707497015
+V^a5>Ef>?^FlhF`Y]MaYbL3
+R1
+=1-f0d415fc1697-65c65637-194-7d30
+R2
+R3
+n@_opt2
+R4
+vFA
+Z6 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+R5
+!i10b 1
+!s100 BTMg8^;b^3l91DdXALdZ:0
+IN1LNHA]8Xi4>;:VddkA@k0
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 !s105 lab1_sv_unit
+S1
+R0
+Z9 w1707160844
+Z10 8lab1.sv
+Z11 Flab1.sv
+L0 1
+Z12 OL;L;10.7f;67
+r1
+!s85 0
+31
+Z13 !s108 1707497015.000000
+Z14 !s107 lab1_tb.sv|lab1.sv|
+Z15 !s90 -reportprogress|300|lab1.sv|lab1_tb.sv|
+!i113 0
+Z16 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+n@f@a
+vRCA
+R6
+R5
+!i10b 1
+!s100 lf:HV7B]KCz0P6c==AOj11
+ITYZkO8M0biioMlaBN>kL80
+R7
+R8
+S1
+R0
+R9
+R10
+R11
+L0 11
+R12
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 0
+R16
+R3
+n@r@c@a
+vtb
+R6
+R5
+!i10b 1
+!s100 e7YM?09A@k_b0baX>gKOA3
+I<:38_088_`_Z>R=LPYTio3
+R7
+!s105 lab1_tb_sv_unit
+S1
+R0
+w1707161635
+8lab1_tb.sv
+Flab1_tb.sv
+L0 2
+R12
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 0
+R16
+R3
